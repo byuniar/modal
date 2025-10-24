@@ -1,3 +1,4 @@
+<script type='text/javascript'>
 window.addEventListener('load', function() {
   if(!localStorage.getItem('modalShown')){
     localStorage.setItem('modalShown','1');
@@ -80,3 +81,5 @@ window.addEventListener('load', function() {
 
   }
 });
+
+</script>
